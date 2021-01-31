@@ -13,7 +13,7 @@
 	<artifactId>spring-boot-upload-csv-files</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-upload-csv-files</name>
-	<description>Spring Boot upload/download csv files example</description>
+	<description>Spring Boot upload csv files example</description>
 
 	<properties>
 		<java.version>1.8</java.version>
