@@ -19,6 +19,7 @@ npm run build //Copy the contents of build folder to backend project - under sta
 ```
 
 ## Run Spring Boot application
+Note:- Front end has been built and has been copied to static folder in back-end project already
 ```
 cd back-end
 mvn spring-boot:run
