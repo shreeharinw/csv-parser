@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
     "primeicons": "^1.0.0-beta.10",
-    "primereact": "^2.0.0-beta.8 "
+    "primereact": "^2.0.0-beta.8 ",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-show-more-text": "^1.4.6"
   },
   "devDependencies": {
     "react-scripts": "1.0.15"
