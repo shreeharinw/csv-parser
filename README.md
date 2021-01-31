@@ -8,17 +8,19 @@ This application takes the csv file as the input and parses and displays the con
 
 ### To Build Backend
 ```
+cd back-end
 mvn clean install
 ```
 ### To Build Frontend
 ```
+cd front-end
 npm install
-npm run build
+npm run build //Copy the contents of build folder to backend project - under static folder (This can be done via scripts as well)
 ```
-Copy the contents of build folder to backend project - under static folder (This can be done via scripts as well)
 
 ## Run Spring Boot application
 ```
+cd back-end
 mvn spring-boot:run
 ```
 ## Instructions
